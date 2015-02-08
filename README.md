@@ -10,6 +10,10 @@
 
 - [@iojs_mk](https://twitter.com/iojs_mk)
 
+## Задачи
+
+За сите активности поврзани со преведувањето можат да се најдат
+соодветни задачи на [iojs/iojs-mk > issues](https://github.com/iojs/iojs-mk/issues)
 
 ## The MIT License (MIT)
 
